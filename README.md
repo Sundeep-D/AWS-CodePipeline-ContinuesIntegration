@@ -1,3 +1,8 @@
+#Branch Details
+Master - Workspace
+Main - Deply branch
+
+
 # nodejs-express-on-aws-ec2
 
 ```
